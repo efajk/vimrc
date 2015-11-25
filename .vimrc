@@ -19,7 +19,7 @@ colorscheme Tomorrow-Night
 
 
 " set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim/
 let NERDTreeMapOpenInTab='<ENTER>' " or \r
 
 "inoremap <c-f> <c-x><c-f>
